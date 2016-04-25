@@ -2,7 +2,7 @@ Package.describe({
   name: 'comerc:chosen',
   version: '1.5.1',
   summary: 'Chosen is a library for making long, unwieldy select boxes more friendly.',
-  git: 'https://github.com/comerc/chosen-package',
+  git: 'https://github.com/comerc/meteor-chosen',
   documentation: 'README.md'
 });
 
