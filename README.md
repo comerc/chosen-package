@@ -1,4 +1,4 @@
-# Chosen
+# Chosen v 1.5.1
 
 Chosen is a library for making long, unwieldy select boxes more user friendly.
 
