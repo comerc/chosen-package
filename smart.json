@@ -3,6 +3,6 @@
   "description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
   "homepage": "http://harvesthq.github.io/chosen/",
   "author": "harvest <http://getharvest.com>",
-  "version": "1.4.2",
-  "git": "https://github.com/eskan/chosen-package.git"
+  "version": "1.5.1",
+  "git": "https://github.com/comerc/chosen-package.git"
 }
