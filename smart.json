@@ -1,8 +1,8 @@
 {
-  "name": "chosen-package",
+  "name": "meteor-chosen",
   "description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
   "homepage": "http://harvesthq.github.io/chosen/",
   "author": "harvest <http://getharvest.com>",
   "version": "1.5.1",
-  "git": "https://github.com/comerc/chosen-package.git"
+  "git": "https://github.com/comerc/meteor-chosen.git"
 }
